@@ -1,0 +1,15 @@
+.search-bar {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: xx-large;
+  font-weight: 600;
+  color: rgb(61, 26, 125);
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+}
